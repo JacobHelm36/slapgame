@@ -1,0 +1,9 @@
+.targetImg {
+  width: 90vw;
+  height: 200px;
+  background-color:beige
+  ;
+}
+.cookImg {
+  background-image: url(https://www.google.com/imgres?imgurl=https%3A%2F%2Fpinchofyum.com%2Fwp-content%2Fuploads%2F2013%2F03%2Fperfect-chocolate-chip-cookies-3.jpg&imgrefurl=https%3A%2F%2Fpinchofyum.com%2Fperfect-chocolate-chip-cookies&tbnid=BTskbY5jPQCTNM&vet=12ahUKEwjx9r6vvqznAhUXkJ4KHSxgCtYQMygQegUIARCQAg..i&docid=TftIYXRlJKVUWM&w=600&h=750&q=perfect%20cookie&ved=2ahUKEwjx9r6vvqznAhUXkJ4KHSxgCtYQMygQegUIARCQAg);
+}
